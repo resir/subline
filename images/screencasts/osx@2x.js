@@ -1,9 +1,9 @@
 animation_urls =
 [
-    "//www.sublimetext.com/screencasts/osx_image_1@2x_packed.png",
-    "//www.sublimetext.com/screencasts/osx_image_2@2x_packed.png",
-    "//www.sublimetext.com/screencasts/osx_image_3@2x_packed.png",
-    "//www.sublimetext.com/screencasts/osx_image_4@2x_packed.png",
+    "//www.sublimetext.com/images/screencasts/osx_image_1@2x_packed.png",
+    "//www.sublimetext.com/images/screencasts/osx_image_2@2x_packed.png",
+    "//www.sublimetext.com/images/screencasts/osx_image_3@2x_packed.png",
+    "//www.sublimetext.com/images/screencasts/osx_image_4@2x_packed.png",
 ];
 
 animation_timelines =

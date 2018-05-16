@@ -1,9 +1,9 @@
 animation_urls=
 [
-    "//www.sublimetext.com/screencasts/windows_image_1_packed.png",
-    "//www.sublimetext.com/screencasts/windows_image_2_packed.png",
-    "//www.sublimetext.com/screencasts/windows_image_3_packed.png",
-    "//www.sublimetext.com/screencasts/windows_image_4_packed.png",
+    "//www.sublimetext.com/images/screencasts/windows_image_1_packed.png",
+    "//www.sublimetext.com/images/screencasts/windows_image_2_packed.png",
+    "//www.sublimetext.com/images/screencasts/windows_image_3_packed.png",
+    "//www.sublimetext.com/images/screencasts/windows_image_4_packed.png",
 ];
 
 animation_timelines=
