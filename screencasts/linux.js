@@ -1,9 +1,9 @@
 animation_urls=
 [
-    "//www.sublimetext.com/images/screencasts/linux_image_1_packed.png",
-    "//www.sublimetext.com/images/screencasts/linux_image_2_packed.png",
-    "//www.sublimetext.com/images/screencasts/linux_image_3_packed.png",
-    "//www.sublimetext.com/images/screencasts/linux_image_4_packed.png",
+    "//www.sublimetext.com/screencasts/linux_image_1_packed.png",
+    "//www.sublimetext.com/screencasts/linux_image_2_packed.png",
+    "//www.sublimetext.com/screencasts/linux_image_3_packed.png",
+    "//www.sublimetext.com/screencasts/linux_image_4_packed.png",
 ];
 
 animation_timelines=
